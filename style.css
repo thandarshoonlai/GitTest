@@ -3,4 +3,8 @@ header{
 }
 button{
     color:white;
+    background-color: green;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
 }
